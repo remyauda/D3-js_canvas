@@ -1,0 +1,7 @@
+{
+	"name" : "lumira_project/lumira_project",
+	"require" : {
+		"mbostock/d3" : "3.5.17",
+		"components/jquery" : "3.2.0"
+	}
+}
